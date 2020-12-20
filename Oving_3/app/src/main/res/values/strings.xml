@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Oving_3</string>
+
+    <string name="friendlist">VENNELISTE</string>
+
+    <string name="register">REGISTRER</string>
+    <string name="name">Navn</string>
+    <string name="birthdate">Fødselsdato</string>
+    <string name="registerBtn">Registrer venn!</string>
+
+    <string name="change">ENDRE</string>
+    <string name="changeBtn">Endre</string>
+
+</resources>

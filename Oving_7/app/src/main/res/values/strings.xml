@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Oving_7</string>
+    <string name="sync_pref">Sync</string>
+    <string name="sync_pref_summary">Endre bakgrunnsfarge</string>
+
+    <string-array name="entries">
+        <item>Grønn</item>
+        <item>Blå</item>
+        <item>Rød</item>
+    </string-array>
+
+    <string-array name="entryValues">
+        <item>-16711936</item>
+        <item>-16776961</item>
+        <item>-65536</item>
+    </string-array>
+</resources>
